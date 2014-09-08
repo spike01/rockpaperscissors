@@ -1,0 +1,14 @@
+# Logfile created on 2014-09-07 15:00:35 +0100 by logger.rb/41954
+[09/07/14 15:00:35 +0100 Spikes-MacBook-Air.local (12144)] INFO : Starting the New Relic agent in "development" environment.
+[09/07/14 15:00:35 +0100 Spikes-MacBook-Air.local (12144)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[09/07/14 15:00:35 +0100 Spikes-MacBook-Air.local (12144)] INFO : Reading configuration from config/newrelic.yml (/Users/NoxAir/Development/makers-academy/friday-challenges/week5/rockpaperscissors)
+[09/07/14 15:00:35 +0100 Spikes-MacBook-Air.local (12144)] INFO : Environment: development
+[09/07/14 15:00:35 +0100 Spikes-MacBook-Air.local (12144)] INFO : No known dispatcher detected.
+[09/07/14 15:00:35 +0100 Spikes-MacBook-Air.local (12144)] INFO : Application: Nox Rock Paper Scissors (Development)
+[09/07/14 15:00:35 +0100 Spikes-MacBook-Air.local (12144)] INFO : Installing Net instrumentation
+[09/07/14 15:00:35 +0100 Spikes-MacBook-Air.local (12144)] INFO : Installing Sinatra instrumentation
+[09/07/14 15:00:35 +0100 Spikes-MacBook-Air.local (12144)] INFO : Installing deferred Rack instrumentation
+[09/07/14 15:00:35 +0100 Spikes-MacBook-Air.local (12144)] INFO : Installing Rack::Builder middleware instrumentation
+[09/07/14 15:00:35 +0100 Spikes-MacBook-Air.local (12144)] INFO : Finished instrumentation
+[09/07/14 15:00:35 +0100 Spikes-MacBook-Air.local (12144)] INFO : Doing deferred dependency-detection before Rack startup
+[09/07/14 15:00:36 +0100 Spikes-MacBook-Air.local (12144)] INFO : Reporting to: https://rpm.newrelic.com/accounts/762982/applications/5097712
